@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS enrtries;
+DROP TABLE IF EXISTS enrtries;
+DROP TABLE IF EXISTS enrtries;
